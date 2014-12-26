@@ -1,11 +1,9 @@
-infoURL
+infoURL: Programa en Ruby que nos dará información sobre una URL
 =======
 
-Programa en Ruby que nos dará información sobre una URL
 
-***
 
-Este código viene a partír de una práctica sobre Ruby (de un [seminario](http://jj.github.io/IV/documentos/seminarios/ruby) de [Infraestructuras Virtuales](http://jj.github.io/IV/) de la [ETSIIT, Granada](http://etsiit.ugr.es/)).
+Este código viene a partír de una práctica sobre Ruby (de [este seminario](http://jj.github.io/IV/documentos/seminarios/ruby) de [Infraestructuras Virtuales](http://jj.github.io/IV/) de la [ETSIIT, Granada](http://etsiit.ugr.es/)).
 
 ***
 
@@ -49,7 +47,7 @@ Donde podemos ver la salida del programa pasándole de entrada "www.google.es"
 ![imagen](http://i.imgur.com/50TieXT.png)
 
 
-Puedes ver también el código en este [mismo repositorio]().
+Puedes ver también el código en este [mismo repositorio](https://github.com/JCristobal/infoURL/blob/master/infoURL.rb).
 
 
 ***
